@@ -1,0 +1,33 @@
+h1 {
+	color: darkred;
+}
+
+li{
+ text-decoration:none;
+    font-size:20px;
+    padding:10px 20px;
+    font-family:Golbon;
+    background:gray;
+    color:#fff;
+    border-radius:20px;
+}
+
+p{
+ text-decoration:none;
+    font-size:20px;
+    padding:10px 20px;
+    font-family:Golbon;
+    background:gray;
+    color:#fff;
+    border-radius:20px;
+    box-shadow :5px 5px 20px rgba(0,0,0,0.4);
+    transform: translateY(-3%);
+}
+
+.hover{
+
+}
+ 
+h3 {
+   color: whitesmoke;
+}
